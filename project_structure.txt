@@ -16,10 +16,15 @@
 │   │   └── components/
 │   │   │   └── Loading.jsx
 │   │   │   └── MenuItems.jsx
+│   │   │   └── PostCard.jsx
+│   │   │   └── ProfileModal.jsx
+│   │   │   └── RecentMessages.jsx
 │   │   │   └── Sidebar.jsx
 │   │   │   └── StoriesBar.jsx
 │   │   │   └── StoryModal.jsx
 │   │   │   └── StoryViewer.jsx
+│   │   │   └── UserCard.jsx
+│   │   │   └── UserProfileInfo.jsx
 │   │   └── pages/
 │   │   │   └── ChatBox.jsx
 │   │   │   └── Connections.jsx
@@ -40,4 +45,18 @@
 │   └── package-lock.json
 │   └── package.json
 │   └── README.md
+│   └── vercel.json
 │   └── vite.config.js
+└── server/
+│   └── configs/
+│   │   └── db.js
+│   └── inngest/
+│   │   └── index.js
+│   └── models/
+│   │   └── User.js
+│   └── .env
+│   └── package-lock.json
+│   └── package.json
+│   └── server.js
+│   └── vercel.json
+└── .gitignore
