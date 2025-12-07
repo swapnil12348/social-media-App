@@ -1,0 +1,43 @@
+﻿└── client/
+│   └── public/
+│   │   └── favicon.svg
+│   │   └── vite.svg
+│   └── src/
+│   │   └── assets/
+│   │   │   └── assets.js
+│   │   │   └── bgImage.png
+│   │   │   └── favicon.svg
+│   │   │   └── group_users.png
+│   │   │   └── logo.svg
+│   │   │   └── react.svg
+│   │   │   └── sample_cover.jpg
+│   │   │   └── sample_profile.jpg
+│   │   │   └── sponsored_img.png
+│   │   └── components/
+│   │   │   └── Loading.jsx
+│   │   │   └── MenuItems.jsx
+│   │   │   └── Sidebar.jsx
+│   │   │   └── StoriesBar.jsx
+│   │   │   └── StoryModal.jsx
+│   │   │   └── StoryViewer.jsx
+│   │   └── pages/
+│   │   │   └── ChatBox.jsx
+│   │   │   └── Connections.jsx
+│   │   │   └── CreatePost.jsx
+│   │   │   └── Discover.jsx
+│   │   │   └── Feed.jsx
+│   │   │   └── Layout.jsx
+│   │   │   └── Login.jsx
+│   │   │   └── Messages.jsx
+│   │   │   └── Profile.jsx
+│   │   └── App.jsx
+│   │   └── index.css
+│   │   └── main.jsx
+│   └── .env
+│   └── .gitignore
+│   └── eslint.config.js
+│   └── index.html
+│   └── package-lock.json
+│   └── package.json
+│   └── README.md
+│   └── vite.config.js
